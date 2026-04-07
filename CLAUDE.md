@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Jekyll site for SaiJaiAI using the Chirpy theme. The site serves as a corporate website for an AI solutions competition platform. It features a custom landing page (`index.html`) with full SaiJaiAI branding while maintaining Jekyll's blog capabilities through the Chirpy theme structure.
+This is a Jekyll site for SaiJaiEval using the Chirpy theme. SaiJaiEval is an AI solutions competition platform built by SaiJaiAI. The site features a custom landing page (`index.html`) with full SaiJaiEval branding while maintaining Jekyll's blog capabilities through the Chirpy theme structure.
 
 ## Development Commands
 
@@ -48,7 +48,7 @@ Local development server runs at `http://localhost:4000`
 
 **Deployment:**
 - Configured for GitHub Pages deployment
-- Custom domain: `www.saijaiai.com` (via CNAME file)
+- Custom domain: `eval.saijaiai.com` (via CNAME file)
 - Automatic deployment on main branch push
 
 **Content Management:**
